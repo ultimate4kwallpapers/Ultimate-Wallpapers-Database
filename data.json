@@ -1,0 +1,89 @@
+{
+    "anime": [
+        {
+            "url": "https://raw.githubusercontent.com/ultimate4kwallpapers/Ultimate-Wallpapers-Database/main/anime_popular/itachi-naruto.720x1280.mp4",
+            "tags": [
+                "live",
+                "wallpaper",
+                "itachi",
+                "naruto.720x1280"
+            ],
+            "ratio": "9/16",
+            "color": "#111111"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/ultimate4kwallpapers/Ultimate-Wallpapers-Database/main/anime_popular/itachi-flame-mastery.720x1280.mp4",
+            "tags": [
+                "live",
+                "wallpaper",
+                "itachi",
+                "flame",
+                "mastery.720x1280"
+            ],
+            "ratio": "9/16",
+            "color": "#111111"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/ultimate4kwallpapers/Ultimate-Wallpapers-Database/main/anime_popular/itachi-in-front-of-the-moon.720x1280.mp4",
+            "tags": [
+                "live",
+                "wallpaper",
+                "itachi",
+                "in",
+                "front",
+                "of",
+                "the",
+                "moon.720x1280"
+            ],
+            "ratio": "9/16",
+            "color": "#111111"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/ultimate4kwallpapers/Ultimate-Wallpapers-Database/main/anime_popular/itachi-dark.720x1280.mp4",
+            "tags": [
+                "live",
+                "wallpaper",
+                "itachi",
+                "dark.720x1280"
+            ],
+            "ratio": "9/16",
+            "color": "#111111"
+        }
+    ],
+    "other": [
+        {
+            "url": "https://raw.githubusercontent.com/ultimate4kwallpapers/Ultimate-Wallpapers-Database/main/other_popular/natural waterfall river wallpaper.jpg",
+            "tags": [
+                "natural waterfall river wallpaper"
+            ],
+            "ratio": "1/2",
+            "color": "#1e353b"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/ultimate4kwallpapers/Ultimate-Wallpapers-Database/main/other_popular/natural city wallpaper.jpg",
+            "tags": [
+                "natural city wallpaper"
+            ],
+            "ratio": "43/93",
+            "color": "#e5c2a2"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/ultimate4kwallpapers/Ultimate-Wallpapers-Database/main/other_popular/Car 1 wallpaper .jpg",
+            "tags": [
+                "car 1 wallpaper "
+            ],
+            "ratio": "9/16",
+            "color": "#aabbcf"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/ultimate4kwallpapers/Ultimate-Wallpapers-Database/main/other_popular/spiderman 1 wallpaper marvel .jpg",
+            "tags": [
+                "spiderman 1 wallpaper marvel "
+            ],
+            "ratio": "9/16",
+            "color": "#250200"
+        }
+    ],
+    "animeLive": [],
+    "otherLive": []
+}

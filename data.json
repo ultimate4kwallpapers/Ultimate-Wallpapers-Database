@@ -61,18 +61,6 @@
             "color": "#e5c2a2"
         }
     ],
-    "animeLive": [
-        {
-            "url": "https://raw.githubusercontent.com/ultimate4kwallpapers/Ultimate-Wallpapers-Database/main/anime_live/Satoru_Gojo_Wall_(106).jpg",
-            "tags": [
-                "satoru",
-                "gojo",
-                "wall",
-                "(106)"
-            ],
-            "ratio": "49/87",
-            "color": "#0c37a7"
-        }
-    ],
+    "animeLive": [],
     "otherLive": []
 }
